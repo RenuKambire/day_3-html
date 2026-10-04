@@ -1,0 +1,11 @@
+.title {
+  font-family: Arial;
+}
+.card {
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(154, 151, 151);
+  width: 300px;
+  padding-left: 14px;
+  padding-bottom: 19px;
+}
